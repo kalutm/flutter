@@ -7,4 +7,7 @@
 *.ios/
 *.idea/
 build/
+lib/alt.dart
+lib/altt.dart
+lib/alttt.dart
 pubspec.lock
